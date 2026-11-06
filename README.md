@@ -10,7 +10,7 @@ A small walkable garden built with three.js, styled like a Japanese anime backgr
 
 It's a single HTML file. three.js and the fonts load from a CDN, so you need an internet connection.
 
-- Open `index.html` in Chrome, Edge or Firefox, or
+- Open `index.html` on your browser and play, or
 - serve the folder locally: `npx serve .` and open the URL it prints.
 
 ## Controls
