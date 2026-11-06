@@ -2,7 +2,7 @@
 
 A small walkable garden built with three.js, styled like a Japanese anime background painting: cel shading, lilac shadows, hand-drawn ink outlines, cherry blossoms and pink clouds.
 
-**Play it live:** https://goutham-bs.github.io/sakura-illustration/
+**Play it live:** https://goutham-bs.github.io/sakura-illustration/ (Need to get this fixed 😅, you can still download and try ^.^)
 
 ![Sakura Illustration screenshot](screenshot.png)
 
